@@ -27,7 +27,7 @@ Dette er en øvingsrepo hvor jeg lærte grunnleggende Git- og GitHub-arbeidsflyt
 
 ## 📸 Bevis på at det funket
 
-![Terminal-bevis](images/beer.jpg)
+![Skål](images/beer.jpg)
 
 ---
 
